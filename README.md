@@ -1,2 +1,2 @@
-# Topological Data Analysis on Olympus Financial Arbitrage and Liquidation Data with Mapper
+# Using Mapper to Analyze Topological Properties of Olympus
 
