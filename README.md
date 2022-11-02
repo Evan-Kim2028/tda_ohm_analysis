@@ -1,2 +1,2 @@
-# tda_ohm_analysis
-applying mapper algorithm on financial blockchain data
+# Topological Data Analysis on Olympus Financial Arbitrage and Liquidation Data with Mapper
+
